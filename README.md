@@ -564,12 +564,12 @@ LPC2148-RTC-Scheduled-Device-Control/
 
 ## PROJECT IMAGES 
 ->HARDWARE:
-hardware/.blockdiagram.jpeg
-hardware/.Hardware.png
+Hardware/Hardware.png
+Hardware/block diagram.jpeg
 
-->PROTEUS
-proteus/.LPC2148 RTC Schedules Control Flowchart.png
-proteus/.
+->PROTEUS:
+Proteus/LPC2148 RTC Scheduled Control Flowchart.png
+Proteus/LPC2148_Circuit.png
 
 ## Applications
 
@@ -582,6 +582,13 @@ proteus/.
 
 This project demonstrates the implementation of an RTC-based scheduled device control system using the LPC2148 microcontroller. It provides practical experience with Embedded C programming, LCD interfacing, keypad interfacing, RTC configuration, GPIO and interrupt handling.
 
----
 
-**Developed using LPC2148 ARM7 Microcontroller and Embedded C.**
+
+### PROJECT AUTHOR ###
+
+Name: Sai Soujanya Narsingoju
+Project: Menu - Driven RTC Configuration and Scheduled Device Control System
+Microcontroller: LPC2148 ARM7
+Programming Language: Embedded C
+
+Developed as part of Embedded Systems learning
